@@ -1,6 +1,6 @@
 # 中國移動
 
-`https://11095.pages.dev/CT`
+`https://11095.pages.dev/CM`
 
 # 中國聯通
 
